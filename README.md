@@ -1,1 +1,1 @@
-# Szoftvertesztel-s_XUXEJO
+# Szoftvertesztelés_XUXEJO
