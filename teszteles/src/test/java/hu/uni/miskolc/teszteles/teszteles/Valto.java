@@ -1,0 +1,7 @@
+package hu.uni.miskolc.teszteles.teszteles;
+
+public enum Valto {
+	
+	MANUALOS_6_FOKOZAT, MANUALIS_5_FOKOZAT, AUTOMATA, MANUALIS_4, MAUNALIS_12, MANUALIS_18, NINCS, SZEKVENCIALIS, DSG, VEGYES, PILLANGO
+
+}
