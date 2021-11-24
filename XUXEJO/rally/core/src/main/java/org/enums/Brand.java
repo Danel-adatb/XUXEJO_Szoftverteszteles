@@ -1,0 +1,5 @@
+package org.enums;
+
+public enum Brand {
+	FORD, TOYOTA, VOLKSWAGEN, CITROEN, SKODA, SEAT, MITSUBISHI, PEUGEOT, SUBARU, HYUNDAI
+}
